@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=grinxy&color=006bed)
 <!--
 **grinxy/grinxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
